@@ -1,0 +1,8 @@
+*.suo
+*.pdb
+*.user
+*.dbmdl
+**/bin/
+**/bin/
+**/Debug/
+**/Release/
